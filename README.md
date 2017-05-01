@@ -2,7 +2,7 @@
 
 A chrome extension that replaces the blame button in github with a praise button.
 
-![screenshot](gp-screenshot.png)
+![screenshot](https://cloud.githubusercontent.com/assets/11269635/25590734/09fc0f08-2eb2-11e7-8142-3df9000c0963.png)
 
 ## Installation
 
