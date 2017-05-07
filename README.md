@@ -8,6 +8,11 @@ A chrome extension that replaces the blame button in github with a praise button
 
 Find it on the Chrome App Store [here](https://chrome.google.com/webstore/detail/git-praise/lonppjkchdkgocdlemmhbjnchajelmfd?utm_source=repo_readme)
 
+## Contributors
+
+- Anthony Fox - [Github](https://github.com/WTFox)
+- Sven Luijten - [Github](https://github.com/svenluijten)
+
 ## Contributing
 
 1. Fork it!
